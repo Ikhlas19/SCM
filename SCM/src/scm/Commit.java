@@ -11,4 +11,5 @@ package scm;
  */
 public class Commit {
     private String commit;
+    private int a;
 }
